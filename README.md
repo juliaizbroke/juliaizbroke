@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=302&color=gradient&text=Hi%20there&section=header&textBg=false&fontColor=f7d7ee&fontSize=0&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=blur&height=302&color=gradient&text=Hi,%20I'm%20Julia!&section=header&textBg=false&fontColor=f7d7ee&fontSize=0&animation=fadeIn)
 <!--
 **juliaizbroke/juliaizbroke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
